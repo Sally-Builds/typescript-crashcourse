@@ -87,6 +87,8 @@ console.log(Level.level1) => 'one'
 console.log(Level.level2) => 'two'
 ```
 
+### Objects
+
 ```typescript
 const user: {
     name: string
