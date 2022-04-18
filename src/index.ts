@@ -39,6 +39,7 @@ enum Direction2 {
     left = "left", 
     right = "right"
 }
+console.log(Direction1.down)
 
 //Object
 const user: {
